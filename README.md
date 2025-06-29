@@ -45,13 +45,13 @@
 - 使用 `cron: '0 20 * * *'`（UTC 时间），即北京时间早上 6 点。
 - 运行 `main.py` 获取并保存壁纸。
 - 将图片和网页内容推送到 `page` 分支。
-- 使用 GitHub Pages 公开展示（`https://willow-god.github.io/daily-image/`）。
+- 使用 GitHub Pages 公开展示（`https://bing.saonn.cn`）。
 
 ---
 
 ## 🌍 在线预览地址
 
-- 🔗 **EO Pages 页面**：[https://bing.liushen.fun/](https://bing.liushen.fun/)
+- 🔗 **EO Pages 页面**：[https://bing.saonn.cn/](https://bing.saonn.cn/)
 
 ---
 
